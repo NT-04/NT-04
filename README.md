@@ -1,4 +1,4 @@
-U| Carrera: | INGENIERIA DE SISTEMAS | | 
+| Carrera: | INGENIERIA DE SISTEMAS | | 
 | --- | :--- | :---|
 | Materia: | TECNOLOGIAS EMERGENTES II | 
 | Apellidos y nombres: | BERTHY ALDAIR QUISPE APAZA | L 
