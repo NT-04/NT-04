@@ -95,6 +95,7 @@ A ellos el servidor brinda una respuesta estructurada de modo puntual y dotada d
 - Opcionalmente, el recurso que se ha pedido.
 
 **9) Describa con un gráfico la arquitectura Java EE**
+
 ![](https://users.dcc.uchile.cl/~jbarrios/J2EE/arq.gif)
 ![](https://www.ecured.cu/images/thumb/c/ce/J2EE.png/300px-J2EE.png)
 * En la Capa Cliente: se ubican los clientes de nuestra aplicación y tienen diversas naturalezas.
