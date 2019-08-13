@@ -87,7 +87,7 @@ A ellos el servidor brinda una respuesta estructurada de modo puntual y dotada d
 
 **8) Explique los elementos importantes de RESPONSE en HTTP**
 
-![HTTP_Response](https://mdn.mozillademos.org/files/13691/HTTP_Response.png)
+![HTTP_Response](http://www.hermosaprogramacion.com/wp-content/uploads/2015/01/http-protocolo-peticion.png)
 - La versión del protocolo HTTP que están usando.
 - Un código de estado, indicando si la petición ha sido exitosa, o no, y debido a que.
 - Un mensaje de estado, una breve descripción del código de estado. 
