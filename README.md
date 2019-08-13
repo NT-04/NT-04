@@ -105,9 +105,9 @@ A ellos el servidor brinda una respuesta estructurada de modo puntual y dotada d
 * En la Capa de Recursos: se localizan los sistemas de almacenamien to disponibles, como bancos de ficheros y bases de dato
 
 **10) Explique cuáles son los contenedores, componentes y servicios de Java EE**
+
 **CONTENEDORES JAVA EE**
 Escribir aplicaciones empresariales seria muy complejo y difícil de codificar, ya que implicaría muchas lineas de código complejo para el manejo de transacciones y la gestión de estados, multihilos y otros detalles de bajo nivel,  la arquitectura Java EE hace que las aplicaciones sean fáciles de escribir porque la lógica de negocio se divide en componentes reutilizables y adicionalmente se cuenta con un servidor de aplicaciones que proporciona servicios en la forma de contenedor para los diferentes tipos de componentes, debido a esto no se tiene que desarrollar estos servicios, sino enfocarse en el desarrollo.
-
 
 
 **Servicios del contenedor** Los contenedores son la interface entre un componente y el bajo nivel, es especifico para la plataforma, antes de que se pueda ejecutar el componente web, el bean o la aplicación cliente deben ser cargados en un modulo java EE y desplegarlo en el contenedor. al momento de desplegarlo cada componente puede tener su propia configuración en cuanto a seguridad, gestión de transacciones JNDI etc.
@@ -147,6 +147,3 @@ Componentes de negocio (lado servidor)
 * Java Persistence API (JPA) 
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzgyODMzNV19
--->
