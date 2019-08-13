@@ -31,6 +31,7 @@ Características de una aplicación empresarial
 
 **Escalamiento Vertical**
 El escalamiento Vertical consiste en agregar recursos a un sólo nodo, aumentando su capacidad, esto puede ser aumentar la memoria RAM del servidor, agregar discos duros de mayor capacidad, cambiar de CPU o incluso cambiar todo el servidor por uno de más capacidad.
+
 **Ventajas de escalamiento vertical**
 - Es más sencillo de administrar un sólo nodo que múltiples nodos.
 - En muchas ocasiones es más práctico.
