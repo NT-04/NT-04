@@ -96,7 +96,6 @@ A ellos el servidor brinda una respuesta estructurada de modo puntual y dotada d
 
 **9) Describa con un gráfico la arquitectura Java EE**
 
-![](https://users.dcc.uchile.cl/~jbarrios/J2EE/arq.gif)
 ![](https://www.ecured.cu/images/thumb/c/ce/J2EE.png/300px-J2EE.png)
 * En la Capa Cliente: se ubican los clientes de nuestra aplicación y tienen diversas naturalezas.
 * La Capa de Presentación: contiene toda la lógica de interacción entre el programa y el cliente y viceversa. Además, es la encargada de controlar las acciones entre el usuario y la lógica del negocio.
@@ -145,5 +144,6 @@ Componentes de negocio (lado servidor)
     - Session Beans 
     - Message Driven Beans 
 * Java Persistence API (JPA) 
+
 
 
