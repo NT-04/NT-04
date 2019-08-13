@@ -1,8 +1,8 @@
 | Carrera: | INGENIERIA DE SISTEMAS | | 
 | --- | :--- | :---|
 | Materia: | TECNOLOGIAS EMERGENTES II | 
-| Apellidos y nombres: | RODRIGO LECOÑA QUISPE | L 
-| C.I: | 10028685 L.P. | 
+| Apellidos y nombres: | BERTHY ALDAIR QUISPE APAZA | L 
+| C.I: | 9130999 L.P. | 
 | Lugar y fecha: | EL ALTO 6 DE AGOSTO
 **1) Explique que son los sistemas empresariales**
 
