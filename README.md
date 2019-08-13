@@ -71,7 +71,7 @@ Un servidor de aplicaciones es un programa de servidor en un equipo en una red d
 3. Un servidor de back-end, base de datos y transacciones de tercer nivel, a veces en un mainframe o servidor grande.
 
 **6) Con un gráfico explique cómo funciona el protocolo HTTP**
-![HTTP_Response](https://huguidugui.files.wordpress.com/2013/10/peticion.png)
+![HTTP_Response](http://www.hermosaprogramacion.com/wp-content/uploads/2015/01/http-protocolo-peticion.png)
 
 El funcionamiento del http se basa en un esquema de petición-respuesta entre el servidor web y el “agente usuario” o cliente que realiza la solicitud de transmisión de datos. Un cliente puede ser un explorador determinado, cuando intentamos abrir una página web, o los rastreadores web que las inspeccionan.
 
@@ -87,7 +87,7 @@ A ellos el servidor brinda una respuesta estructurada de modo puntual y dotada d
 
 **8) Explique los elementos importantes de RESPONSE en HTTP**
 
-![HTTP_Response](http://www.hermosaprogramacion.com/wp-content/uploads/2015/01/http-protocolo-peticion.png)
+![HTTP_Response](https://mdn.mozillademos.org/files/13691/HTTP_Response.png)
 - La versión del protocolo HTTP que están usando.
 - Un código de estado, indicando si la petición ha sido exitosa, o no, y debido a que.
 - Un mensaje de estado, una breve descripción del código de estado. 
