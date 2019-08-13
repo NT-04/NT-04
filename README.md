@@ -42,6 +42,8 @@ El escalamiento Vertical consiste en agregar recursos a un sólo nodo, aumentand
 
 **Escalamiento Horizontal**
 El escalamiento Horizontal, a diferencia del anterior consiste en agregar nodos adicionales para adaptarse a la carga de trabajo. Si la aplicación o el sistema están llegando a su punto crítico, entonces se agregan nodos adicionales y se divide la carga entre los distintos nodos.
+
+
 **Ventajas de escalamiento horizontal**
 - En caso de una falla, no afecta toda la operación. *
 - Permite escalar gradualmente, agregando servidores conforme se necesitan.
