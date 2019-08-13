@@ -25,7 +25,6 @@ Características de una aplicación empresarial
 10. **Seguridad** La capacidad de garantizar la seguridad de la informacion 
 11. **Validez** La capacidad de validar los resultados del sisitema o una entrada de usuario
 
-**3) Investigue y proponga cinco (5) instituciones que requerirían aplicaciones de misión crítica** 
 
 **4) Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical**
 
