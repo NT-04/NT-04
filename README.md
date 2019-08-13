@@ -5,11 +5,6 @@
 | C.I: | 9130999 L.P. | 
 | Lugar y fecha: | EL ALTO 6 DE AGOSTO
 
-| Carrera: | INGENIERIA DE SISTEMAS | 
-| Materia: | TECNOLOGIAS EMERGENTES II | 
-| Apellidos y nombres: | RODRIGO LECOÑA QUISPE | 
-| C.I: | 10028685 L.P. | 
-| Lugar y fecha: | EL ALTO 6 DE AGOSTO
 **1) Explique que son los sistemas empresariales**
 
 Sistemas empresariales son un conjunto integrado de sistemas de información que son herramientas que unifican los procesos que se llevan a cabo dentro de una empresa por medio de un software y hardware.
