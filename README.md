@@ -55,8 +55,12 @@ El escalamiento Horizontal, a diferencia del anterior consiste en agregar nodos 
 - Encontrar errores puede ser más desafiante.
 
 **5) Que es un servidor Web y que es un servidor de aplicaciones**
+
+
 **Servidor web**
 Un servidor web es el encargado de manejar páginas web y enviarlas a través de la red a quienes lo requieran y tengan los permisos para dichas páginas. Son los principales encargados de generar el tráfico en Internet puesto es a través de ellos se realizan las conexiones a todos los sitios web del mundo, toda página web está almacenada en uno de estos servidores, los cuales en su mayoría pertenecen a empresas de hosting que arriendan sus servicios para que los clientes almacenen sus páginas web en ellos teniendo acceso a ellos durante las veinticuatro horas del día.
+
+
 **Servidor de aplicaciones**
 Un servidor de aplicaciones es un programa de servidor en un equipo en una red distribuida que proporciona la lógica de negocio para un programa de aplicación. El servidor de aplicaciones se ve frecuentemente como parte de una aplicación de tres niveles, que consta de un servidor gráfico de interfaz de usuario (GUI), un servidor de aplicaciones (lógica empresarial) y un servidor de bases de datos y transacciones. De manera más descriptiva, se puede visualizar como la división de una aplicación en:
 
